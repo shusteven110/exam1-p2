@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/ee6470/exam1-p1
+CMAKE_SOURCE_DIR = /home/user/ee6470/exam1-p2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/ee6470/exam1-p1/build
+CMAKE_BINARY_DIR = /home/user/ee6470/exam1-p2/build
 
 # Utility rule file for run.
 
@@ -69,7 +69,7 @@ include CMakeFiles/run.dir/progress.make
 CMakeFiles/run: out.bmp
 
 out.bmp: sobel
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/user/ee6470/exam1-p1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating out.bmp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/user/ee6470/exam1-p2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating out.bmp"
 	./sobel ../lena_std_short.bmp ./out.bmp
 
 run: CMakeFiles/run
@@ -86,6 +86,6 @@ CMakeFiles/run.dir/clean:
 .PHONY : CMakeFiles/run.dir/clean
 
 CMakeFiles/run.dir/depend:
-	cd /home/user/ee6470/exam1-p1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/ee6470/exam1-p1 /home/user/ee6470/exam1-p1 /home/user/ee6470/exam1-p1/build /home/user/ee6470/exam1-p1/build /home/user/ee6470/exam1-p1/build/CMakeFiles/run.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/user/ee6470/exam1-p2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/ee6470/exam1-p2 /home/user/ee6470/exam1-p2 /home/user/ee6470/exam1-p2/build /home/user/ee6470/exam1-p2/build /home/user/ee6470/exam1-p2/build/CMakeFiles/run.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run.dir/depend
 

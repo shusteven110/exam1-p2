@@ -1,5 +1,5 @@
 CMakeFiles/sobel.dir/Testbench.cpp.o: \
- /home/user/ee6470/exam1-p1/Testbench.cpp /usr/include/stdc-predef.h \
+ /home/user/ee6470/exam1-p2/Testbench.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/cassert \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -61,7 +61,7 @@ CMakeFiles/sobel.dir/Testbench.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/11/bits/std_abs.h \
- /home/user/ee6470/exam1-p1/Testbench.h /usr/include/c++/11/string \
+ /home/user/ee6470/exam1-p2/Testbench.h /usr/include/c++/11/string \
  /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h \
  /usr/include/c++/11/bits/char_traits.h \
@@ -290,4 +290,4 @@ CMakeFiles/sobel.dir/Testbench.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/user/ee6470/exam1-p1/filter_def.h
+ /home/user/ee6470/exam1-p2/filter_def.h

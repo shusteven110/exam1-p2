@@ -1,4 +1,4 @@
-CMakeFiles/sobel.dir/main.cpp.o: /home/user/ee6470/exam1-p1/main.cpp \
+CMakeFiles/sobel.dir/main.cpp.o: /home/user/ee6470/exam1-p2/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -149,7 +149,7 @@ CMakeFiles/sobel.dir/main.cpp.o: /home/user/ee6470/exam1-p1/main.cpp \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/x86_64-linux-gnu/sys/time.h \
- /home/user/ee6470/exam1-p1/SobelFilter.h /opt/systemc/include/systemc \
+ /home/user/ee6470/exam1-p2/SobelFilter.h /opt/systemc/include/systemc \
  /opt/systemc/include/sysc/kernel/sc_cmnhdr.h /usr/include/c++/11/cassert \
  /usr/include/assert.h /usr/include/c++/11/vector \
  /usr/include/c++/11/bits/stl_uninitialized.h \
@@ -289,5 +289,5 @@ CMakeFiles/sobel.dir/main.cpp.o: /home/user/ee6470/exam1-p1/main.cpp \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/user/ee6470/exam1-p1/filter_def.h \
- /home/user/ee6470/exam1-p1/Testbench.h
+ /home/user/ee6470/exam1-p2/filter_def.h \
+ /home/user/ee6470/exam1-p2/Testbench.h
